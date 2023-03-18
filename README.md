@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahma Al-sharif</h1>
-<h3 align="center">I'm a student at KAU with a major in CIS. I'm passionate about web and application development</h3>
+<h3 align="center">I'm a student at KAU with a major in Comupter and Information System</h3>
 
 ![header](https://user-images.githubusercontent.com/110794992/226121714-5d4a3536-7082-4c7c-86a6-2161cbe0baae.jpeg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmaalghalib&label=Profile%20views&color=0e75b6&style=flat" alt="rahmaalghalib" /> </p>
-
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning Flutter
+- 💡 I'm passionate about web and application development
+- ⭐️ I'm a pianist and i like to play chess
+- 📫 You can reach me by my email rahma.alghalib@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
