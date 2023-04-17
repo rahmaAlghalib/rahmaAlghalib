@@ -3,7 +3,7 @@
 
 ![header](https://user-images.githubusercontent.com/110794992/226121714-5d4a3536-7082-4c7c-86a6-2161cbe0baae.jpeg)
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning HTML and CSS
 - 💡 I'm passionate about web and application development
 - ⭐️ I'm a pianist and i like to play chess
 - 📫 You can reach me by my email rahma.alghalib@hotmail.com
