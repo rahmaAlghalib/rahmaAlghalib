@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning HTML and CSS
 - 💡 I'm passionate about web and application development
-- ⭐️ I'm a pianist and i like to play chess
-- 📫 You can reach me by my email rahma.alghalib@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
